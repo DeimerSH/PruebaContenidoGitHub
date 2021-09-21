@@ -1,0 +1,25 @@
+body {background-color:aquamarine;}
+h1{font-size: 36pt; text-decoration: overline;}
+h2{color: blue; text-decoration: line-through;}
+p{margin-left: 50px;}
+p.center{text-align: center; text-transform: uppercase;}
+p.right{text-align: right;}
+.decoradomaster{background-image:url('imagen/cultivos05.jpg');
+    background-repeat: no-repeat; 
+    text-align:center; 
+    background-color: tomato;}
+
+    .caja { 
+        font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif; 
+        color: #ffffff; 
+        font-size: 18px; 
+        font-weight: 400; 
+        text-align: center; 
+        background: #889ccf; 
+        margin: 0 0 25px; 
+        overflow: hidden; 
+        padding: 20px; 
+        border-radius: 35px 0px 35px 0px; 
+        -moz-border-radius: 35px 0px 35px 0px; 
+        -webkit-border-radius: 35px 0px 35px 0px; 
+        border: 2px solid #5878ca;}
